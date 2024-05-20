@@ -31,5 +31,6 @@ web-cam-example
 # note
 
 ./data folder contains test video and test image
+
 after running the script with --video or --image flags, script will make ./output folder
 and will same output file there
